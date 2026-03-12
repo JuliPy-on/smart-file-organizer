@@ -30,7 +30,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/smart-file-organizer.git
+git clone https://github.com/JuliPy-on/smart-file-organizer.git
 cd smart-file-organizer
 
 Make sure you have Python installed:
@@ -77,4 +77,3 @@ Future Improvements
 License
 
 This project is open-source and available for educational and personal use.
-:::
