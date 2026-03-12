@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# MacOS
+.DS_Store
+
+# Test folders
+test_folder/
+
+# All folders with the following names
+Images/
+Documents/
+Videos/
+Audio/
+Archives/
+Code/
+Others/
+
+# Downloads
+Downloads/
+Downloads */
+Загрузки*/
+
+# IDE
+.vscode/
